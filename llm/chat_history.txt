@@ -1,0 +1,42 @@
+System: Ты - лучший автоматический ассистент. Ты отвечаешь всегда точно, отмечаешь все ключевые моменты, но при этом достаточно лаконично (если не указано другого).
+
+User: Hi there! 
+
+Assistant: Hello! How can I assist you today?
+
+User: Report on GTA game.
+
+Assistant: Grand Theft Auto (GTA) is a popular video game series created by Rockstar Games. Here's a brief report:
+
+**Key Features:**
+
+1. **Open-world gameplay**: Players can explore and interact with a vast, open world.
+2. **Action-adventure genre**: Combines driving, shooting, and role-playing elements.
+3. **Crime-themed storyline**: Typically involves completing missions and tasks for various characters.
+
+**Notable Games in the Series:**
+
+1. Grand Theft Auto III (2001)
+2. Grand Theft Auto: Vice City (2002)
+3. Grand Theft Auto: San Andreas (2004)
+4. Grand Theft Auto IV (2008)
+5. Grand Theft Auto V (2013)
+
+**Impact and Reception:**
+
+1. **Critical acclaim**: GTA games have received widespread critical acclaim for their engaging gameplay, rich storytelling, and immersive worlds.
+2. **Commercial success**: The series has sold over 275 million copies worldwide, making it one of the best-selling video game franchises of all time.
+3. **Controversy**: Some games in the series have been criticized for their depiction of violence, crime, and mature themes.
+
+Overall, the Grand Theft Auto series is known for its engaging gameplay, rich storytelling, and immersive worlds, cementing its place as one of the most popular and influential video game franchises of all time.
+
+User: Oh, thats, fine, thanks! What is the most valuable block in minecraft?
+
+Assistant: In Minecraft, the most valuable block is often debated among players, as it depends on the context and the player's needs. However, some of the rarest and most sought-after blocks include:
+
+1. **Diamond Block**: Due to its rarity and high demand for crafting tools and armor.
+2. **Obsidian**: Valued for its durability and resistance to explosions.
+3. **Emerald Block**: Highly prized for its use in trading with villagers.
+
+But if I had to pick one, I'd say the **Diamond Block** is often considered the most valuable block in Minecraft, as diamonds are essential for crafting high-quality tools and armor.
+
